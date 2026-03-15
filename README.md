@@ -55,4 +55,4 @@ understand *why* before acting on a model's output.
 - Python, pandas, scikit-learn, XGBoost, SHAP, matplotlib
 
 ## SHAP Feature Importance
-![SHAP Summary Plot](shap_summary (1).png)
+![SHAP Summary Plot](shap_summary(1).png)
